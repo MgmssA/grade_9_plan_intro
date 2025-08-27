@@ -54,7 +54,7 @@ Ein gutes Lernfeld für diese komplexe Entwicklungsarbeit sind moderne Webseiten
 #. Danach implementieren wir Multimedia 
 #. Nun ist die Zeit reif für Modularität: Programmierbibliotheken und Frameworks werden Deine Entwicklungsarbeit beschleunigen
 #. Eine weitere Vereinfachung kommt durch Markdown Sprachen und Systemen erreicht
-#. Zum Schluss gibt es ein Teamprojekt
+#. Zum Schluss wirst Du Teil eines Teams und ihr behandelt ein komplexes Thema eurer Wahl 
 
 Wir bewegen uns dabei von den Grundlagen zu immer höheren **Abstraktionsebenen**. Die Grundlagen sind einfach und simpel aber komplizierte Aufgaben lassen sich damit nur mühsam lösen. Wenn das passiert, werden wir einen Gangwechsel betreiben und auf Module zurückgreifen, die viele dieser mühsamen Schritte erleichtern.  
 
