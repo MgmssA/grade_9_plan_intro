@@ -2,11 +2,7 @@
 title: | 
     <p>![](style/mgmss_brand_color.png){width=40px}</p>
     Plan für Informatik in Stufe 9
-subtitle: |
-    Einführung mit Aufgaben <br>
-    <br>
-    Einführung: 2025-08-25 <br>
-    Abgabetermin: 2025-09-15 (Doppelrohr bei Nichteinreichen am Termin) 
+subtitle: Einführung mit Aufgaben
 date: 2025-08-26 
 date-modified: 2025-08-26
 author: Călin Drăgan  
@@ -30,7 +26,7 @@ filters:
 css: style/style.css
 ---
 
-## Was machen in Stufe 9?
+## Was machen wir in Stufe 9?
 
 In diesem Jahr wendet ihr euch einer professionelleren Arbeitsweise in der Informatik zu. Dazu werdet ihr zuerst die notwendige Infrastruktur einrichten, um **Quellcodemanagement** betreiben zu können. Dies st die Grundlage für den praktischen Teil der Informatik, dem wr uns zuwenden: **Programmieren**.
 
