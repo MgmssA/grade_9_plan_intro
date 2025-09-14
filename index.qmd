@@ -74,7 +74,7 @@ Wir bewegen uns dabei von den Grundlagen zu immer höheren **Abstraktionsebenen*
 
 #### Stufe III
 
-#. Was stellst Du Dir unter der Aussage "Trennung von Inhalt und Aussehen" vor? 
+#. Was stellst Du Dir unter der Aussage "Trennung von Inhalt und Aussehen" vor im Zusammenhang mit Dokumenten wie Bücher, wissenschaftliche Artikel, Zeitschriften einerseits, und Word, Adobe Indesign, oder Webseiten andererseits? 
 
 #. Beschreibe mit Deinen eigenen Worten warum es Programmierbibliotheken gibt?
 
