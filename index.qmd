@@ -2,7 +2,7 @@
 title: | 
     <p>![](style/mgmss_brand_color.png){width=40px}</p>
     Plan für Informatik in Stufe 9
-subtitle: Einführung mit Aufgaben
+subtitle: 'Was haben wir in Stufe 9 vor?<br><small>Einführung mit Aufgaben</small>'
 date: 2025-08-26 
 date-modified: 2025-08-26
 author: Călin Drăgan  
